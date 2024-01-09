@@ -1,2 +1,3 @@
 # Credit-Card-Customer-Attrition
-Prediction of Customer Attrition from Credit Card dataset
+This Data Science project deals with prediction of Customer attrition and retention for a particualr bank under study.
+Dataset used here is the Kaggle Credit-Card-Customers Dataset.
